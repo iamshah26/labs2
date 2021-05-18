@@ -1,1 +1,1 @@
-<?php include_once("./s2.html")?> 
+<?php include 'index.html'; ?>
